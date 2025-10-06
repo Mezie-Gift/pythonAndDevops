@@ -1,6 +1,6 @@
 # Python and DevOps Projects
 
-Welcome to the `pythonAndDevops` repository! This repository serves as a collection of Python and DevOps-related projects, showcasing tools, scripts, and applications built to solve real-world problems or enhance development workflows. Each project is contained in its own folder with dedicated documentation.
+Welcome to the `pythonAndDevops` repository! This repository serves as a collection of Python and DevOps-related projects, showcasing tools, scripts, and applications built to solve real-world problems or enhance development workflows. Each project is contained in its own folder with dedicated documentation. Some of these projects were built as a sample solution to the [project tasks](https://roadmap.sh/projects) of [roadmap.sh](https://roadmap.sh)
 
 ## Table of Contents
 - [Overview](#overview)
