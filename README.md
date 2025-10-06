@@ -20,7 +20,7 @@ New projects will be added as they are developed, each with its own folder and R
 
 ## Projects
 
-### Task CLI
+### [Task CLI](https://roadmap.sh/projects/task-tracker)
 **Folder**: `task-cli`
 
 A command-line interface (CLI) tool built in Python to manage tasks efficiently. It allows users to create, update, delete, and list tasks, with features tailored for productivity and automation.
