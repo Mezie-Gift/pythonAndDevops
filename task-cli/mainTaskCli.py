@@ -1,4 +1,4 @@
-#!/usrbin/python3
+#!/usr/bin/python3
 
 from add import addTask
 from update import updateTask
